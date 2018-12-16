@@ -3,4 +3,4 @@ ING Datathon
 
 This project was developed with Egemen Zeytinci* together for ING Datathon Competition.
 
-* https://github.com/egemenzeytinci
+(https://github.com/egemenzeytinci)
